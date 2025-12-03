@@ -1,1 +1,4 @@
 src/main.py
+git add nombre-del-archivo-grande.nc
+git commit -m "Archivo grande de 80 MB"
+git push origin main
